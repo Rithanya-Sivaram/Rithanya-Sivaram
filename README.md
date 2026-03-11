@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rithanya-Sivaram
-- 👀 I’m interested in technology, entrepreneurship and design 
-- 🌱 I’m currently a high school junior pursuing IBDP 
-- 💞️ I’m looking to collaborate on open source projects that drive community impact 
-- 😄 Pronouns: She/her 
+👋 Hi, I’m @Rithanya-Sivaram
+🖥️ Founder of Vibrance Hub, a project-based learning platform to make learning more joyful with AI
+👀 I’m interested in how AI can help young people learn and feel better  
+🌱 I’m a recent IB graduate
+😄 Pronouns: She/her 
 
 <!---
 Rithanya-Sivaram/Rithanya-Sivaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
